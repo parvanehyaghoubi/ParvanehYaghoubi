@@ -251,9 +251,9 @@ My academic background in **Biomedical Engineering** gives me a different perspe
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parvanehyaghoubi&theme=transparent" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parvanehyaghoubi&theme=transparent" />
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parvanehyaghoubi&theme=transparent" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parvanehyaghoubi&theme=transparent&exclude=jupyter%20notebook" />
 
 <br/><br/>
 
