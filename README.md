@@ -257,7 +257,23 @@ My academic background in **Biomedical Engineering** gives me a different perspe
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=parvanehyaghoubi&theme=github-compact&hide_border=true&area=true&custom_title=Parvaneh%20Yaghoubi%27s%20Contribution%20Graph" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ParvanehYaghoubi/ParvanehYaghoubi/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ParvanehYaghoubi/ParvanehYaghoubi/output/github-snake.svg"
+  />
+  <img
+    width="96%"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/ParvanehYaghoubi/ParvanehYaghoubi/output/github-snake.svg"
+  />
+</picture>
+
+</div>
 
 </div>
 
