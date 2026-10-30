@@ -20,7 +20,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm **Parvaneh Yaghoubi**, a Biomedical Engineering graduate with a strong focus on **Frontend Development, Python, Artificial Intelligence, and research-oriented software projects**.
 
@@ -42,81 +42,17 @@ My background combines engineering, programming, and research — from building 
 
 ---
 
-# 🧠 My Technology Stack
+# My Technology Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" />
-
-<br/><br/>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
----
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark" />
-
-<br/><br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
----
-
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,flask&theme=dark" />
-
-<br/><br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
-
----
-
-### AI & Data
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-<br/><br/>
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge)
-
----
-
-### Databases & Backend Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
-
----
-
-### Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,pycharm&theme=dark" />
-
-<br/><br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+<img height="100" src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nextjs,vite,tailwind,bootstrap,nodejs,django,flask,postgres,mongodb,git,github,vercel,vscode,pycharm&theme=dark&perline=10" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <table>
 <tr>
@@ -203,7 +139,7 @@ A responsive web application for exploring countries and their information using
 
 ---
 
-# 💻 Web Development
+# Web Development
 
 I enjoy building modern web applications with an emphasis on:
 
@@ -216,13 +152,10 @@ I enjoy building modern web applications with an emphasis on:
 * 🧩 Reusable components
 * 🎨 Clean UI
 * 📡 API integration
-* 📊 Data visualization
-
-My preferred frontend ecosystem is:
 
 ---
 
-# 🐍 Python & Biomedical Computing
+# Python & Biomedical Computing
 
 Python is an important part of my work across both **AI and biomedical engineering**.
 
@@ -236,10 +169,11 @@ Areas I work with include:
 * Data analysis
 * Scientific computing
 * Backend development with Flask
+* Data visualization
 
 ---
 
-# 🎓 Education
+# Education
 
 ### 🎓 Bachelor of Biomedical Engineering
 
@@ -247,7 +181,7 @@ My academic background in **Biomedical Engineering** gives me a different perspe
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -255,31 +189,11 @@ My academic background in **Biomedical Engineering** gives me a different perspe
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parvanehyaghoubi&theme=transparent&exclude=jupyter%20notebook" />
 
-<br/><br/>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ParvanehYaghoubi/ParvanehYaghoubi/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ParvanehYaghoubi/ParvanehYaghoubi/output/github-snake.svg"
-  />
-  <img
-    width="96%"
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/ParvanehYaghoubi/ParvanehYaghoubi/output/github-snake.svg"
-  />
-</picture>
-
-</div>
-
 </div>
 
 ---
 
-# 🌱 Beyond Code
+# Beyond Code
 
 I believe technology is most valuable when it can **solve meaningful problems and create opportunities for people**.
 
@@ -291,7 +205,7 @@ I also enjoy learning continuously, building projects from scratch, and turning 
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 I'm always interested in conversations around:
 
